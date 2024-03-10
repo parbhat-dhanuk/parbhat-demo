@@ -1,2 +1,3 @@
 # parbhat-demo
-This is my first git repository
+This is my first git repository.
+Author-parbhat dhanuk
